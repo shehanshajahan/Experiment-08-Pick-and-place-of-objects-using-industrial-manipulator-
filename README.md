@@ -1,5 +1,8 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
+# Name : Shehan Shajahan
+# Roll No : 212223240154
+# Department : Btech AIML
+# Date : 22/04/2024
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -79,35 +82,25 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
-
-
-
+![WhatsApp Image 2024-04-22 at 10 52 43 AM](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/1e4b6c52-e8ec-4d95-aea9-3aa309f64334)
+![WhatsApp Image 2024-04-22 at 10 52 43 AM (1)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/580f8ab5-2b59-467e-b323-3d19c7274076)
+![WhatsApp Image 2024-04-22 at 10 52 43 AM (2)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a3da4d95-2b0d-45b4-8003-b353a1ff66d3)
+![WhatsApp Image 2024-04-22 at 10 52 43 AM (3)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/3ce3a814-7254-484d-bcff-4960cd10913c)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/95494101-0366-4f1f-a183-0332751baeaf)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (1)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a10dd71e-2739-43f7-8b32-92a8c8620d91)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (2)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a9428859-f977-4b32-8587-9a1121ff5a93)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (3)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/2c70ad76-7850-477c-b933-d3a298687531)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (4)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/4a36a587-d31a-4026-b87d-71d1c55bf3cf)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (5)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/be9ea857-2f83-42b0-b4b2-c170a30f04cc)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (6)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/98622be1-efd6-40ec-8d68-d78546158fc2)
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (7)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/ab0294f5-868a-45ea-b8aa-18e42467013f)
 
 
 
 
 ### Results: 
-
+Hence Pick and place of objects using industrial manipulator is executed successfully.
 
 
 
