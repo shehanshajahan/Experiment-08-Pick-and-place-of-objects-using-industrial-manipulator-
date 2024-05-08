@@ -82,19 +82,17 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-### Output Pics and Screen shots of pick and place 
-![WhatsApp Image 2024-04-22 at 10 52 43 AM](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/1e4b6c52-e8ec-4d95-aea9-3aa309f64334)
-![WhatsApp Image 2024-04-22 at 10 52 43 AM (1)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/580f8ab5-2b59-467e-b323-3d19c7274076)
-![WhatsApp Image 2024-04-22 at 10 52 43 AM (2)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a3da4d95-2b0d-45b4-8003-b353a1ff66d3)
-![WhatsApp Image 2024-04-22 at 10 52 43 AM (3)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/3ce3a814-7254-484d-bcff-4960cd10913c)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/95494101-0366-4f1f-a183-0332751baeaf)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (1)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a10dd71e-2739-43f7-8b32-92a8c8620d91)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (2)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a9428859-f977-4b32-8587-9a1121ff5a93)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (3)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/2c70ad76-7850-477c-b933-d3a298687531)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (4)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/4a36a587-d31a-4026-b87d-71d1c55bf3cf)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (5)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/be9ea857-2f83-42b0-b4b2-c170a30f04cc)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (6)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/98622be1-efd6-40ec-8d68-d78546158fc2)
-![WhatsApp Image 2024-04-22 at 10 52 44 AM (7)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/ab0294f5-868a-45ea-b8aa-18e42467013f)
+### Program
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/8334c9ae-76ac-492c-9cf4-7ab527f69f2d)
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/8d734c68-b75c-482f-879d-424f74e4feef)
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/7915d066-661f-4060-b01c-82f1220015b6)
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/16e6fbf6-82a7-4819-960f-a1f87afec577)
+
+### Output Screenshots Of Pick and Place
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/f9f42859-623f-49ff-87eb-bdb119badf44)
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/66774158-6928-4402-a81a-9fbec2f6a221)
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/84a9a511-5611-4019-807b-6109172b88dd)
+![image](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/57e5db68-c4cc-47c9-9f84-6ee4b539f3fb)
 
 ### Output Video
 https://www.youtube.com/watch?v=-olP5yS70hE
