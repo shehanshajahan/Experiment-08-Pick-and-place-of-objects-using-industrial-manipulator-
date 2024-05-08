@@ -82,7 +82,7 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-### output video and screen shots of pick and place 
+### Output Pics and Screen shots of pick and place 
 ![WhatsApp Image 2024-04-22 at 10 52 43 AM](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/1e4b6c52-e8ec-4d95-aea9-3aa309f64334)
 ![WhatsApp Image 2024-04-22 at 10 52 43 AM (1)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/580f8ab5-2b59-467e-b323-3d19c7274076)
 ![WhatsApp Image 2024-04-22 at 10 52 43 AM (2)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/a3da4d95-2b0d-45b4-8003-b353a1ff66d3)
@@ -96,8 +96,8 @@ and click on the connect icon
 ![WhatsApp Image 2024-04-22 at 10 52 44 AM (6)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/98622be1-efd6-40ec-8d68-d78546158fc2)
 ![WhatsApp Image 2024-04-22 at 10 52 44 AM (7)](https://github.com/shehanshajahan/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139317389/ab0294f5-868a-45ea-b8aa-18e42467013f)
 
-
-
+### Output Video
+https://www.youtube.com/watch?v=-olP5yS70hE
 
 ### Results: 
 Hence Pick and place of objects using industrial manipulator is executed successfully.
